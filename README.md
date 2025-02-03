@@ -17,7 +17,6 @@ Your application will be installable from `npm` or by sharing your native execut
 - `index.ts`: main script file to execute functions
 - `csv.ts`: script for reading data from csv
 - `type.ts`: type definition for inputs and results
-- `api.ts`: fetch multiple tokens prices from CryptoCompare API
 
 ## Usage
 
